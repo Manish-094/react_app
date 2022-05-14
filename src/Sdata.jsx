@@ -6,23 +6,23 @@ const Sdata = [
     },
     {
         imgsrc: web,
-        title: "web development"
+        title: "android development"
     },
     {
         imgsrc: web,
-        title: "web development"
+        title: "marketing"
     },
     {
         imgsrc: web,
-        title: "web development"
+        title: "digital"
     },
     {
         imgsrc: web,
-        title: "web development"
+        title: "graphics design"
     },
     {
         imgsrc: web,
-        title: "web development"
+        title: "auto cad"
     },
     
 ];

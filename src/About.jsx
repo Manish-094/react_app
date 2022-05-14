@@ -1,6 +1,6 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
-import web from "../src/images/stack.png";
+import web from "../src/images/hero-img.png";
 import Common from "./Common";
 var About = () => {
     return(
